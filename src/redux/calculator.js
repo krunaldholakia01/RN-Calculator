@@ -1,0 +1,2 @@
+export const SAVE_STATE = 'SAVE_STATE'
+export const CLEAR_HISTORY = 'CLEAR_HISTORY'
